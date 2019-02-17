@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/02-Vectors/03-Implement-Our-Own-Vector" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/02-Vectors/05-Implement-Vector-Operations" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/02-Vectors/08-Implementation-of-Zero-Vector" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="PyDocumentationSettings">
+    <option name="renderExternalDocumentation" value="true" />
+  </component>
+  <component name="TestRunnerService">
+    <option name="PROJECT_TEST_RUNNER" value="Unittests" />
+  </component>
+</module>
